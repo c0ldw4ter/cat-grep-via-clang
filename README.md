@@ -38,7 +38,7 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 
 ### To lauch
 -  cd to need direcotry(cat or grep)
--  use Makefile to compile (make all)
--  run compiled file(./file)
+-  use `Makefile` to compile (`make all`)
+-  run compiled file(`./file`)
 
 
