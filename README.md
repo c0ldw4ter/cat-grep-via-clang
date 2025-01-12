@@ -34,3 +34,11 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 | 8   | -s      | Suppress error messages about nonexistent or unreadable files. |
 | 9   | -f file | Take regexes from a file.                                      |
 | 10  | -o      | Output the matched parts of a matching line.                   |
+
+
+### To lauch
+-  cd to need direcotry(cat or grep)
+-  use Makefile to compile (make all)
+-  run compiled file(./file)
+
+
